@@ -9,7 +9,7 @@ There are still a lot of ideas, tasks and other issues I am working on in my fre
 2. Run `cookiecutter https://github.com/Paspartout/BoilerplatePP` in your Terminal.
 3. Your brand new C++ project should be aviable in your given repo_name.
 
-## Build upon great projects
+## Built upon great projects
 
 - [CMake](http://www.cmake.org/) as a fast and easy to use build system
 - [Catch](http://catch-lib.net/) for lightweight and easy to use TDD or BDD
