@@ -1,0 +1,10 @@
+{
+	"full_name": "John Smith",
+	"email": "john@smith.com",
+	"github_username": "johnsmith",
+	"project_name": "BoilerplatePP",
+	"repo_name": "boilerplate_pp",
+	"project_short_description": "BoilerplatePP contains all the boilerplate you need to create an C++ Program.",
+	"year": "2013",
+	"version": "0.1.0"
+}
