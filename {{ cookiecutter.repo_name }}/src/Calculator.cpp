@@ -2,7 +2,6 @@
 
 namespace {{ cookiecutter.repo_name }} {
 
-
     int Calculator::add(int first, int second) {
         return first + second;
     }

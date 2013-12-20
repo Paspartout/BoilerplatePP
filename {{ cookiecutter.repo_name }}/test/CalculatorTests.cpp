@@ -15,7 +15,6 @@ SCENARIO( "Calculators can calculate", "[calculator]" ) {
                 REQUIRE( calc.add(1,1) == 2 );
                 REQUIRE( calc.add(123,321) == 444 );
             }
-
         }
         WHEN( "substracting two numbers" ) {
             THEN( "the result should be the difference between both numbers" ) {
