@@ -32,7 +32,7 @@ set (CMAKE_VERBOSE_MAKEFILE 0) # Use 1 for debugging, 0 for release
 set (MAINFOLDER ${PROJECT_SOURCE_DIR})
 set (EXECUTABLE_OUTPUT_PATH "${MAINFOLDER}/bin")
 set (LIBRARY_OUTPUT_PATH "${MAINFOLDER}/lib")
-set (CATCH_DIR "${MAINFOLDER}/thirdparity/catch")
+set (CATCH_DIR "${MAINFOLDER}/thirdparty/catch")
 
 
 #
