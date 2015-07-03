@@ -1,7 +1,9 @@
+**WARNING: This project is abandoned and no longer going to be maintained by me.**
+**Feel free to fork and update it to your needs.**
+
 # BoilerplatePP
 
-This repo is a Cookiecutter template for new C++ Projects, I will use for all my future C++ projects.
-There are still a lot of ideas, tasks and other issues I am working on in my free time so stay tuned!
+This repo is a Cookiecutter template for new C++ Projects.
 
 ## Usage
 
